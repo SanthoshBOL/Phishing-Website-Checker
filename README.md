@@ -21,7 +21,7 @@ It runs seamlessly in the background and updates results every time you open or 
 
 ![Safe Response](images/Safe_Response.png)
 
-![Unsafe Response](images/Unsafe_response.png)
+![Unsafe Response](images/Unsafe_Response.png)
 
 ---
 
